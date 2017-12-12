@@ -1,0 +1,7 @@
+Time for the reading from files 	 = 	38.311 seconds
+Computation of the cooccurrence measure	 = 	2429.469 seconds
+Graph building	 = 	0.131 seconds
+ReWeighting of the graph 	 = 	5.668 seconds
+Removal of some edges	 = 	0.159 seconds
+LT creation	 = 	0.167 seconds
+Total time spent	 = 	2473.925 seconds
